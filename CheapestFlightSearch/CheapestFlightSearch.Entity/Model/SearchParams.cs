@@ -37,8 +37,7 @@ namespace CheapestFlightSearch.Entity.Model
         public enum Currency1
         {
             USD,
-            EUR,
-            HRK
+            EUR
         }
     }
 }

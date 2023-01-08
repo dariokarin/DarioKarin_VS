@@ -1,4 +1,5 @@
-﻿@model CheapestFlightSearch.Entity.Model.SearchParams
+﻿@using static CheapestFlightSearch.Entity.Model.SearchParams
+@model CheapestFlightSearch.Entity.Model.SearchParams
 
 
 @{ ViewData["Title"] = "Flight search"; }
@@ -26,12 +27,12 @@
             </div>
         </div>
         <div style="width:40%">
-            @*<div class="col">
+            <div class="col">
                 <label asp-for="Currency">Currency</label>
                 <select asp-for="Currency" asp-items="Html.GetEnumSelectList<Currency1>()" class="form-control">
                     <option selected="selected" value="">Please select</option>
                 </select>
-            </div>*@
+            </div>
             <div class="col">
                 <label asp-for="@Model.Passengers">Number of passengers</label>
                 <input asp-for="@Model.Passengers" class="form-control" />

@@ -1,6 +1,5 @@
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\bin\Debug\net5.0\CheapestFlightSearch.Entity.deps.json
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\bin\Debug\net5.0\CheapestFlightSearch.Entity.dll
-C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\bin\Debug\net5.0\ref\CheapestFlightSearch.Entity.dll
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\bin\Debug\net5.0\CheapestFlightSearch.Entity.pdb
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -291,3 +290,4 @@ C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\obj\Debug\net5.0\ref\CheapestFlightSearch.Entity.dll
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\obj\Debug\net5.0\CheapestFlightSearch.Entity.pdb
 C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\obj\Debug\net5.0\CheapestFlightSearch.Entity.csproj.AssemblyReference.cache
+C:\Users\dario\Downloads\Dario_test_VS\CheapestFlightSearch\CheapestFlightSearch.Entity\obj\Debug\net5.0\refint\CheapestFlightSearch.Entity.dll
