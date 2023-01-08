@@ -42,9 +42,9 @@ namespace CheapestFlightSearch.Repository.Repository
         }
 
 
-        public async Task<List<Airport>> GetAirports(string airportName)
+        public async Task<List<Airport>> GetAirports(string term)
         {
-            var names = await _context.Airports.Where(x => x.AirportName.Contains(airportName)).ToListAsync();
+            var names = await _context.Airports.Where(x => x.AirportName.Contains(term)).ToListAsync();
             return names;
         }
 

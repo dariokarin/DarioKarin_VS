@@ -41,9 +41,9 @@ namespace CheapestFlightSearch.Controllers
         }
 
 
-        public async Task<IActionResult> AirportAutocomplete(string airportName)
+        public async Task<IActionResult> AirportAutocomplete(string term)
         {
-            var names = await _amadeusRepository.GetAirports(airportName);
+            var names = await _amadeusRepository.GetAirports(term);
             return new JsonResult(names);
         }
 
